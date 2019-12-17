@@ -15,3 +15,8 @@ function square(number) {
 square(2);
 // print the result in the console
 console.log(square(2));
+
+// use the value to initialize a variable
+let number = square(2);
+// print the result in the console
+console.log(number);
