@@ -10,3 +10,5 @@ console.log(selectedColors)
 
 // Let us check the length of this array
 console.log(selectedColors.length);
+
+// An Array is a Data Structure used to represent a list of items
