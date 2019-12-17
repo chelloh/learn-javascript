@@ -6,3 +6,9 @@ function greet(name, lastName) {
 greet('Peter', 'John');
 
 // Types Of Functions
+// Calculating a value
+function square(number) {
+    return number * number;
+}
+
+console.log(square(2));
