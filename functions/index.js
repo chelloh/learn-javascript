@@ -1,6 +1,6 @@
 // A Function is a set of statements that performs a task or calculates a value
-function greet(name) {
-    console.log('Hello ' + name);
+function greet(name, lastName) {
+    console.log('Hello ' + name + ' ' + lastName);
 }
 
-greet('Peter');
+greet('Peter', 'John');
