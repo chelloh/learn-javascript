@@ -11,4 +11,7 @@ function square(number) {
     return number * number;
 }
 
+// call the square function
+square(2);
+// print the result in the console
 console.log(square(2));
