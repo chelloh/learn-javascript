@@ -16,7 +16,7 @@ let person = {
 // Dot Notation
 person.name = 'John';
 
-// Bracet Notation
+// Bracket Notation
 person['name'] = 'Mary';
 
 let selection = 'name';
