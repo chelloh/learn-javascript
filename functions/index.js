@@ -4,3 +4,5 @@ function greet(name, lastName) {
 }
 
 greet('Peter', 'John');
+
+// Types Of Functions
